@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    color: orangered;
+}
+
+p {
+    font-family: "American Typewriter";
+    font-size: 20px;
+    text-align: center;
+    color: navy;
+}
+p.groove {
+    border-style: groove;
+}
